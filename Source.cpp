@@ -332,7 +332,7 @@ void pack(char* path, char* outFileName)
 int main(int argc, char *argv[])
 {
 	printf("\nMight and Magic III CC file packer/unpacker v1.0\n");
-	printf("Copyrigh (c) 2015 ReWolf\n");
+	printf("Copyright (c) 2015 ReWolf\n");
 	printf("http://blog.rewolf.pl\n");
 	printf("rewolf [at] rewolf.pl\n\n");
 	if ((argc == 3) && (0 == strcmp(argv[1], "dump")))
